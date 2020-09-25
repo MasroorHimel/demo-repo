@@ -1,7 +1,6 @@
 # demo-repo
 Some Description
 
-
-##Subheader
+## Subheader
 
 Watch tutorail on Youtube.
